@@ -1,4 +1,4 @@
-![welcome-bg-1](https://user-images.githubusercontent.com/53189968/142773416-d1f49b96-3e5d-4061-a5b3-28ed235262b0.png)
+![welcome-bg-1]([https://user-images.githubusercontent.com/53189968/142773416-d1f49b96-3e5d-4061-a5b3-28ed235262b0.png](https://i.imgur.com/KbTFrlW.png))
 
 <h1 align="center">Peter</h1>
 
