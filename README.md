@@ -5,9 +5,9 @@
 <p align="center">System developer</p>
 
 
-<a href="https://github.com/skidoodle">
+<a href="https://github.com/MrSkidder">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=skidoodle&color=blue" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=MrSkidder&color=blue" alt="Profile Views">
   </p>
 </a>
 
