@@ -11,4 +11,4 @@
   </p>
 </a>
 
-![footer-bg](https://user-images.githubusercontent.com/53189968/142773429-47a4588d-0afd-4e22-aacb-179814f8c99f.png)
+![footer-bg](https://i.imgur.com/1cghd0n.png)
