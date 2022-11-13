@@ -1,6 +1,6 @@
 ![welcome-bg-1](https://user-images.githubusercontent.com/53189968/142773416-d1f49b96-3e5d-4061-a5b3-28ed235262b0.png)
 
-<h1 align="center">péter</h1>
+<h1 align="center">Peter</h1>
 
 <p align="center">System developer</p>
 
