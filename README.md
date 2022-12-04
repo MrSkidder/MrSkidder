@@ -1,6 +1,6 @@
 ![welcome-bg-1](https://i.imgur.com/KbTFrlW.png)
 
-<h1 align="center">Peter</h1>
+<h1 align="center">peter</h1>
 
 <p align="center">System developer</p>
 
